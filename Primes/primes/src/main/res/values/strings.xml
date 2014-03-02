@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Primes</string>
+    <string name="action_clear">Clear all</string>
+    <string name="go">Go</string>
+    <string name="ok">OK</string>
+    <string name="edittext_hint">Type a number.</string>
+    <string name="alert_text">You must enter a number!</string>
+    <string name="toast_text">Done calculating prime numbers!</string>
+</resources>
